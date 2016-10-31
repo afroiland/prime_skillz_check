@@ -16,3 +16,7 @@
 # 7 - What is the command for listing all files, including hidden files in the current directory?
 
 # 8 - What is the command for navigating to the parent directory of the current directory?
+
+1. cd <directory-name>
+2. 
+3. 
